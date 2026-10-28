@@ -1,0 +1,6 @@
+{
+  "name": "Kathmandu Royale Casino Nepal",
+  "description": "Nepal's premier real-money casino app featuring instant eSewa QR deposits, Langur Burja, Aviator Crash, Teen Patti, Andar Bahar, and Roulette.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
